@@ -2,6 +2,7 @@
 This is template for creating our website.
 If you think you can add good modifications, please fork or download the repository and INTERACT with us !
 We'd love to hear your critics and ideas.
+
 #<strong>Current Features</strong>
   * Scroll effect
   * Return to top feature
