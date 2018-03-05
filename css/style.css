@@ -5,6 +5,9 @@ body {
     position: scroll;
   }
   .navbar .nav-link {
+    box-shadow: 2px 2px 5px #3292a6;
+    background: #fff; 
+    opacity: 0.9;
     font-size: 14px;
     text-transform: uppercase;
     padding-left: 1em !important;
